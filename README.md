@@ -14,4 +14,4 @@
 ##   
 
 ### 🧰 Support
-- Discord: https://discord.gg/yKQUwydA3f
+- Discord: https://discord.gg/nordeservices
