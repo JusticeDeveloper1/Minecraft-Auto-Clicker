@@ -1,4 +1,3 @@
-### ☕ Usage  
 - #### 💻 Downloading
      ```
      1 - Click on releases
