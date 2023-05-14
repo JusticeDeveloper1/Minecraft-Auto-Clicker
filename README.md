@@ -14,4 +14,4 @@
 ##   
 
 ### 🧰 Support
-- Discord: https://discord.gg/nordeservices
+- Discord Profil: Norde#7615
