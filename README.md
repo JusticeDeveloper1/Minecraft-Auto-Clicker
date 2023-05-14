@@ -14,4 +14,4 @@
 ##   
 
 ### 🧰 Support
-- **Discord Profil:** Norde#7615
+- Discord: Norde#7615
