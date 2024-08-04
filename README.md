@@ -14,4 +14,4 @@
 ##   
 
 ### 🧰 Support
-- Discord: Norde#7615
+- Discord: thomsendev
